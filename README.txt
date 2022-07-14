@@ -5,4 +5,9 @@ prerana ...
 =======
 css file added
 >>>>>>> css-assignments
+<<<<<<< HEAD
 again changed
+=======
+
+js file created
+>>>>>>> js-assignments
