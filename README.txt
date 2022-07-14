@@ -5,3 +5,5 @@ prerana ...
 =======
 css file added
 >>>>>>> css-assignments
+
+js file created
